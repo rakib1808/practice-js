@@ -18,3 +18,13 @@ if (capital.trim() === city.trim()) {
 } else {
     console.log('I not living')
 }
+
+
+      //note
+
+//immutable and mutable 
+//--------------------------------------------------------------- |
+// **Mutable**  মানে “পরিবর্তনযোগ্য” — মান (value) বদলানো যায়। সাধারণত objects বা arrays mutable হয়।
+
+// **Immutable** মানে “অপরিবর্তনযোগ্য” — একবার তৈরি হলে মান পরিবর্তন করা যায় না। যেমন: string, number, boolean, null, undefined ।
+
