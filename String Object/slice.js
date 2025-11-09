@@ -10,7 +10,7 @@ console.log(part);
 
 
 
-//............................//
+//..........যদি neg হয়...............//
 const fruits = ["apple", "banana", "mango", "orange", "grape"];
 console.log(fruits.slice(-3));
 //(-3) মানে শেষ দিক থেকে ৩টা উপাদান।
