@@ -32,3 +32,13 @@ console.log(reversed);
 
     //Method–4: While Loop
 
+let text3 = "NASAH BIKAS";
+let rev = "";
+let i = text3.length - 1;
+
+while (i >= 0) {
+    rev = rev + text3[i];
+    i--;
+}
+
+console.log(rev);
